@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendData</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="Reload">Reload</string>
+    <string name="hint">Hint</string>
+</resources>
