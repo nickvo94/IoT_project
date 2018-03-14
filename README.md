@@ -6,4 +6,6 @@ The main operations will be between Chipboard and Server , Server and Web page, 
 
 All details and mobile applications screen shots can be found in the report (pdf file).
 
+![alt text](https://github.com/perseus0832/IoT_project/blob/master/sauna_project.png)
+
 
